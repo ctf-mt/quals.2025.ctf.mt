@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"sudy","division":"open","score":100,"globalPlace":330,"divisionPlace":326,"solves":[{"category":"sanity","name":"check","points":100,"solves":380,"id":"sanity-check","createdAt":1750521396460}]}}

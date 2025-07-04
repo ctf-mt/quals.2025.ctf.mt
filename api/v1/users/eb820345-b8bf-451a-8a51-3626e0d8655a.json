@@ -1,0 +1,1 @@
+{"kind":"goodUserData","message":"The user data was successfully retrieved.","data":{"name":"BAKUDAN","division":"open","score":100,"globalPlace":325,"divisionPlace":321,"solves":[{"category":"sanity","name":"check","points":100,"solves":380,"id":"sanity-check","createdAt":1750519520411}]}}
